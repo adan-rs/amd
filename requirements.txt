@@ -1,24 +1,29 @@
-# Bibliotecas fundamentales
-numpy>=1.24.0
-pandas>=2.0.0
-scipy>=1.10.0
-scikit-learn>=1.2.0
+# =========================================
+# Proyecto: Análisis y Minería de Datos (AMD)
+# Requisitos legacy (pip / Colab)
+# Compatible con Python >= 3.12
+# =========================================
 
-# Visualización de datos
-matplotlib>=3.7.0
-seaborn>=0.12.0
+# --- Bibliotecas fundamentales ---
+numpy>=2.3.3
+pandas>=2.3.3
+scipy>=1.16.1
+scikit-learn>=1.7.0
 
-# Jupyter notebooks
-jupyter>=1.0.0
-jupyterlab>=3.6.0
-ipykernel>=6.21.0
+# --- Visualización de datos ---
+matplotlib>=3.10.0
+seaborn>=0.13.2
 
-# Procesamiento y análisis de datos
-statsmodels>=0.13.5
+# --- Jupyter / Notebooks ---
+jupyterlab>=4.5.1
+ipykernel>=7.0.1
+
+# --- Procesamiento y análisis de datos ---
+statsmodels>=0.14.6
 category_encoders>=2.6.0
 
-# Manipulación de datos
-openpyxl>=3.1.0 
+# --- Manipulación de datos ---
+openpyxl>=3.1.0
 
-# Otras bibliotecas
-yfinance>=0.2.30
+# --- Finanzas / datos externos ---
+yfinance>=1.0
