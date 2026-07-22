@@ -1,0 +1,29 @@
+# =========================================
+# Proyecto: Análisis y Minería de Datos (AMD)
+# Requisitos legacy (pip / Colab)
+# Compatible con Python >= 3.12
+# =========================================
+
+# --- Bibliotecas fundamentales ---
+numpy>=2.3.3
+pandas>=2.3.3
+scipy>=1.16.1
+scikit-learn>=1.7.0
+
+# --- Visualización de datos ---
+matplotlib>=3.10.0
+seaborn>=0.13.2
+
+# --- Jupyter / Notebooks ---
+jupyterlab>=4.5.1
+ipykernel>=7.0.1
+
+# --- Procesamiento y análisis de datos ---
+statsmodels>=0.14.6
+category_encoders>=2.6.0
+
+# --- Manipulación de datos ---
+openpyxl>=3.1.0
+
+# --- Finanzas / datos externos ---
+yfinance>=1.0
